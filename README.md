@@ -1,4 +1,3 @@
-CODSOFT
 # Codsoft #java #intern #internship
 Task 1: Number Game 🎮
 One of the fascinating challenges I took on was creating a dynamic and engaging Number Game within the Codsoft project. 🔢🕹️ It involved implementing algorithms for generating random numbers, user input validation, and an interactive interface. The joy of seeing users enjoy and engage with the game has been incredibly rewarding!
